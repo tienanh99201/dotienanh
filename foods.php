@@ -84,27 +84,24 @@
                             <div class="slider__foodmenu-block">
                                 <div class="col-lg-3 col-md-3 col-3 ">
                                     <div class="menu_img">
-                                        <img src="img/menu-pizza.jpg" alt="" class="foodmenu-img">
+                                        <img src="img/menu-momo.jpg" alt="" class="foodmenu-img">
                                     </div>
 
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-9">
                                     <div class="slider__foodmenu-right">
-                                        <h4 class="slider__foodmenu-title">Food Title</h4>
-                                        <span class="slider__foodmenu-price">$2.3</span>
-                                        <p class="slider__foodmenu-text">Made with Italian Sauce, Chicken, and organice
-                                            vegetables.
+                                        <h4 class="slider__foodmenu-title">Dumplings Specials</h4>
+                                        <span class="slider__foodmenu-price">$5.00</span>
+                                        <p class="slider__foodmenu-text">Chicken Dumpling wuth herbs from Mountains
                                         </p>
-                                        <a href="order_pizza.php">
+                                        <a href="order_momo.php">
                                             <button class="slider__foodmenu-btn">Order Now</button>
                                         </a>
                                     </div>
                                 </div>
-
-
                             </div>
                         </div>
-
+                        <!-- end row1 -->
                         <div class="col-lg-6 col-md-6 col-12">
                             <div class="slider__foodmenu-block">
                                 <div class="col-lg-3 col-md-3 col-3  ">
@@ -114,10 +111,9 @@
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-9">
                                     <div class="slider__foodmenu-right">
-                                        <h4 class="slider__foodmenu-title">Food Title</h4>
-                                        <span class="slider__foodmenu-price">$2.3</span>
-                                        <p class="slider__foodmenu-text">Made with Italian Sauce, Chicken, and organice
-                                            vegetables.
+                                        <h4 class="slider__foodmenu-title">Best Burger</h4>
+                                        <span class="slider__foodmenu-price">$4.0</span>
+                                        <p class="slider__foodmenu-text">Burger with Ham, Pineapple and lots of Cheese.
                                         </p>
                                         <a href="order_burger.php">
                                             <button class="slider__foodmenu-btn">Order Now</button>
@@ -135,17 +131,16 @@
                             <div class="slider__foodmenu-block">
                                 <div class="col-lg-3 col-md-3 col-3 ">
                                     <div class="menu_img">
-                                        <img src="img/menu-burger.jpg" alt="" class="foodmenu-img">
+                                        <img src="img/menu-momo.jpg" alt="" class="foodmenu-img">
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-9">
                                     <div class="slider__foodmenu-right">
-                                        <h4 class="slider__foodmenu-title">Food Title</h4>
-                                        <span class="slider__foodmenu-price">$2.3</span>
-                                        <p class="slider__foodmenu-text">Made with Italian Sauce, Chicken, and organice
-                                            vegetables.
+                                        <h4 class="slider__foodmenu-title">Sadeko Momo</h4>
+                                        <span class="slider__foodmenu-price">$6.00</span>
+                                        <p class="slider__foodmenu-text">Best Spicy Momo for Winter
                                         </p>
-                                        <a href="order_burger.php">
+                                        <a href="order_momo.php">
                                             <button class="slider__foodmenu-btn">Order Now</button>
                                         </a>
                                     </div>
@@ -164,9 +159,9 @@
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-9">
                                     <div class="slider__foodmenu-right">
-                                        <h4 class="slider__foodmenu-title">Food Title</h4>
-                                        <span class="slider__foodmenu-price">$2.3</span>
-                                        <p class="slider__foodmenu-text">Made with Italian Sauce, Chicken, and organice
+                                        <h4 class="slider__foodmenu-title">Mixed Pizza </h4>
+                                        <span class="slider__foodmenu-price">$10.00</span>
+                                        <p class="slider__foodmenu-text">Pizza with Chicken, Ham, Buff, Mushroom and 
                                             vegetables.
                                         </p>
                                         <a href="order_pizza.php">
@@ -191,10 +186,9 @@
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-9">
                                     <div class="slider__foodmenu-right">
-                                        <h4 class="slider__foodmenu-title">Food Title</h4>
-                                        <span class="slider__foodmenu-price">$2.3</span>
-                                        <p class="slider__foodmenu-text">Made with Italian Sauce, Chicken, and organice
-                                            vegetables.
+                                        <h4 class="slider__foodmenu-title">Smoky BBQ Pizza</h4>
+                                        <span class="slider__foodmenu-price">$6.00</span>
+                                        <p class="slider__foodmenu-text">Best Firewood Pizza in Town.
                                         </p>
                                         <a href="order_pizza.php">
                                             <button class="slider__foodmenu-btn">Order Now</button>
@@ -205,35 +199,15 @@
 
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-6 col-12">
-                            <div class="slider__foodmenu-block">
-                                <div class="col-lg-3 col-md-3 col-3  ">
-                                    <div class="menu_img">
-                                        <img src="img/menu-momo.jpg" alt="" class="foodmenu-img">
-                                    </div>
-                                </div>
-                                <div class="col-lg-9 col-md-9 col-9 ">
-                                    <div class="slider__foodmenu-right">
-                                        <h4 class="slider__foodmenu-title">Food Title</h4>
-                                        <span class="slider__foodmenu-price">$2.3</span>
-                                        <p class="slider__foodmenu-text">Made with Italian Sauce, Chicken, and organice
-                                            vegetables.
-                                        </p>
-                                        <a href="order_momo.php">
-                                            <button class="slider__foodmenu-btn">Order Now</button>
-                                        </a>
-
-                                    </div>
-                                </div>
-
-
-                            </div>
-                        </div>
+                        
                     </div>
+
                     <h4 class="slider__foodmenu-footer">See All Foods</h4>
                 </div>
             </div>
         </div>
+        <!-- ------------------------------------------------------------------ -->
+    </div>
         <!-- ------------------------------------------------------------------ -->
     </div>
     <!-- End Slider -->
